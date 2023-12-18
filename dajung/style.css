@@ -1,0 +1,11 @@
+*{ font-family: 'Gowun Batang', serif;}
+
+/* 헤더 영역 */
+header {
+    background-image: url(main.png);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+
